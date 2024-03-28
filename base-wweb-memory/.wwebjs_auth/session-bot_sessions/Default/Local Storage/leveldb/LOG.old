@@ -1,0 +1,5 @@
+2024/03/24-15:50:59.995 48a0 Reusing MANIFEST C:\github\chatbot\base-wweb-memory\.wwebjs_auth\session-bot_sessions\Default\Local Storage\leveldb/MANIFEST-000001
+2024/03/24-15:50:59.996 48a0 Recovering log #105
+2024/03/24-15:50:59.996 48a0 Level-0 table #108: started
+2024/03/24-15:51:00.004 48a0 Level-0 table #108: 16161 bytes OK
+2024/03/24-15:51:00.008 48a0 Delete type=0 #105
